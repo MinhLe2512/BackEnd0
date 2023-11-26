@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-backend",
+  "version": "1.0.0",
+  "description": "fullstack backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "npm": "^10.2.4"
+  }
+}
